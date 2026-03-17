@@ -1,0 +1,17 @@
+{
+  "name": "Snake Demo",
+  "short_name": "Snake",
+  "description": "一个可在电脑和手机浏览器中游玩的贪吃蛇 Demo。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#234f2a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
